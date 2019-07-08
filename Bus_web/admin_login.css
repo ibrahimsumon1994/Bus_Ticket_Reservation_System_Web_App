@@ -1,0 +1,24 @@
+﻿.previous {
+    height: 70px;
+    width: 100%;
+}
+
+.logpic {
+    height:400px;
+    width:100%;
+}
+
+.log {
+    height: 400px;
+    width: 50%;
+    float:left;
+}
+
+.pic {
+    height: 400px;
+    width: 50%;
+}
+
+.clear {
+    clear:both;
+}
